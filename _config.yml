@@ -1,14 +1,14 @@
 # Site settings
 name: Given
 email: given223@163.com
-author: Freud Kang
+author: HaoJiwen
 url: http://www.yajiji.com
-resume_site: http://www.hifreud.com/Resume.io/
+resume_site: https://ahjwen.github.io/arts/
 github: https://github.com/ahjwen/
 baseurl: "/"
-description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
+description: 巴拉巴拉巴拉...
+meta_description: 从零开始做大佬~
+motto: 我会努力的.
 banner: 学而不思则罔，思而不学则殆。
 
 #permalink: /:categories/:year/:month/:day/:title/
